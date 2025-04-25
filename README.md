@@ -24,6 +24,6 @@ Below is a sample table of company names with their respective categories:
 
 ## Submission
 - Fork this repository and commit all the code you used for your model
-    - Add [instructions](https://github.com/celtra/ai-homework/tree/master/instructions)
+    - Add [instructions](./instructions/README.md)
     - Add source code
     - Add report
