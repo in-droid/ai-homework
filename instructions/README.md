@@ -37,7 +37,7 @@ category_with_des = model.categorize_get_description(
 ## 4. Project structure
 
 ### Notebooks `notebooks/`
- - ***`data_exploration.ipynb`** 
+ - **`data_exploration.ipynb`** 
  Initial data exploration and visualizations.
 
 - **`classify_embeddings.ipynb`**
@@ -52,7 +52,7 @@ Evaluation of the prompt-engineering approach with Google's Gemini API.
 Helper functions for data splitting / loading and getting descriptions.
 
 - **model.py**
-Core model interface. So the both classification methods are compatible.
+Core model interface. So both classification methods are compatible.
 
 - **gemini_llm.py**
 Gemini LLM classification pipeline.
